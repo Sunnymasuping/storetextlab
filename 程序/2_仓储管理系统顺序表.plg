@@ -1,0 +1,35 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 2_仓储管理系统顺序表 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\25734\AppData\Local\Temp\RSP5602.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/2_仓储管理系统顺序表.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\25734\Desktop\结课作业\数据结构\课设\2_仓储管理系统顺序表.c"
+]
+Creating command line "cl.exe @C:\Users\25734\AppData\Local\Temp\RSP5602.tmp" 
+Creating temporary file "C:\Users\25734\AppData\Local\Temp\RSP5603.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/2_仓储管理系统顺序表.pdb" /debug /machine:I386 /out:"Debug/2_仓储管理系统顺序表.exe" /pdbtype:sept 
+".\Debug\2_仓储管理系统顺序表.obj"
+]
+Creating command line "link.exe @C:\Users\25734\AppData\Local\Temp\RSP5603.tmp"
+<h3>Output Window</h3>
+Compiling...
+2_仓储管理系统顺序表.c
+C:\Users\25734\Desktop\结课作业\数据结构\课设\2_仓储管理系统顺序表.c(310) : warning C4101: 'j' : unreferenced local variable
+Linking...
+LINK : fatal error LNK1168: cannot open Debug/2_仓储管理系统顺序表.exe for writing
+执行 link.exe 时出错.
+
+
+
+<h3>Results</h3>
+2_仓储管理系统顺序表.exe - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
