@@ -28,9 +28,6 @@
 - **字符串替换**：实现替换指定子串的功能。
 - **数据结构**：采用线性表作为存储结构。
 
-## 代码仓库
-
-[GitHub 项目地址](https://github.com/YourUsername/warehouse-text-analysis)
 
 ## 功能实现细节
 
